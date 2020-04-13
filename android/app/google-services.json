@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "279754785975",
+    "firebase_url": "https://coronavirus-9d663.firebaseio.com",
+    "project_id": "coronavirus-9d663",
+    "storage_bucket": "coronavirus-9d663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279754785975:android:67fa02be4948726e36f932",
+        "android_client_info": {
+          "package_name": "com.akshatjagga.coronavirus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279754785975-ro8hmugnrd0ihlhblpj19vo8s46ogo92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQbVOPizOm6xdSp40DTpM0v1IZC8gIJN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279754785975-ro8hmugnrd0ihlhblpj19vo8s46ogo92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279754785975-k37qr04s9lqluor5hc39ehq1ftj5i4lg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.akshatjagga.coronavirus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
